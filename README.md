@@ -1,2 +1,2 @@
-# SASS4beginner
-SASS courses for beginners
+# SASS4beginners
+SASS courses for beginners.
