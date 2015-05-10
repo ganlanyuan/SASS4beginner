@@ -2,32 +2,32 @@
 SASS courses for beginners.    
 [reference](https://github.com/ganlanyuan/SASS4beginners/blob/master/reference.md)
 
-### Basis
+### #1 Basis
 An introduction to Sass, install, imports, comments, and nesting.  
 
-### Use a Framework
+### #2 Use a Framework
 Learn to import and use a framwork.
 
-### Math & Variable
+### #3 Math & Variable
 Creation and use of recallable information.  
 
-### Extend
+### #4 Extend
 CSS rules reuse and inheritance.   
 
-### Mixin
+### #5 Mixin
 Writing reusable styles mixed.
 
-### Directive
+### #6 Directive
 @if, @for, @each and @while.  
 
-### List & Map
+### #7 List & Map
 Use list and map to write efficient style sheet.
 
-### Color
+### #8 Color
 Color functions and management.
 
-### Write your components
+### #9 Write your components
 Basis rule to write your components.
 
-### Rocket usage
+### #10 Rocket usage
 Learn to use Rocket.
