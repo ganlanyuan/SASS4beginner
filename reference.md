@@ -7,10 +7,16 @@
 [bourbon](http://bourbon.io/)   
 [susy](http://susy.oddbird.net/)   
 
+#### Frameworks
+**Bootstrap**: [website](http://getbootstrap.com/), [sass](https://github.com/twbs/bootstrap-sass)   
+**Foundation**: [website](http://foundation.zurb.com/), [sass](https://github.com/zurb/foundation)  
+**Pure**: [website](http://purecss.io/), [sass](https://github.com/eric-price/PureCSS-SASS)   
+More frameworks can be found [here](http://usablica.github.io/front-end-frameworks/compare.html).   
+
 #### Blog
 [the sass way](http://thesassway.com/)   
-#### Articles
 
+#### Articles
 [Sass vs. LESS vs. Stylus](http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-a-preprocessor-shootout--net-24320)   
 [Why Sass?](http://alistapart.com/article/why-sass)   
 [The Absolute Beginner’s Guide to Sass](http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-sass)   
