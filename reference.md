@@ -5,7 +5,7 @@
 #### Tools
 [sassmeister](http://sassmeister.com/)      
 [bourbon](http://bourbon.io/)   
-[susy](susy.oddbird.net)   
+[susy](http://susy.oddbird.net/)   
 
 #### Blog
 [the sass way](http://thesassway.com/)   
