@@ -4,13 +4,16 @@
 
 #### Tools
 [sassmeister](http://sassmeister.com/)      
-[bourbon](http://bourbon.io/)   
-[susy](http://susy.oddbird.net/)   
+
+#### Collection of SASS Extensions
+[sache](http://www.sache.in/)   
 
 #### Frameworks
-**Bootstrap**: [website](http://getbootstrap.com/), [sass](https://github.com/twbs/bootstrap-sass)   
-**Foundation**: [website](http://foundation.zurb.com/), [sass](https://github.com/zurb/foundation)  
-**Pure**: [website](http://purecss.io/), [sass](https://github.com/eric-price/PureCSS-SASS)   
+**bourbon**: [website](http://bourbon.io/), [github](https://github.com/thoughtbot/bourbon)      
+**susy**: [website](http://susy.oddbird.net/), [github](https://github.com/ericam/susy/)   
+**Bootstrap**: [website](http://getbootstrap.com/), [github](https://github.com/twbs/bootstrap-sass)   
+**Foundation**: [website](http://foundation.zurb.com/), [github](https://github.com/zurb/foundation)  
+**Pure**: [website](http://purecss.io/), [github](https://github.com/eric-price/PureCSS-SASS)   
 More frameworks can be found [here](http://usablica.github.io/front-end-frameworks/compare.html).   
 
 #### Blog

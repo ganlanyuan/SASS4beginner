@@ -27,7 +27,7 @@ Use list and map to write efficient style sheet.
 Color functions and management.
 
 ### #9 Write your components
-Basis rule to write your components.
+Basis rules to write your components.
 
 ### #10 Rocket usage
 Learn to use Rocket.
