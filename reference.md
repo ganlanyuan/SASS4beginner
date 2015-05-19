@@ -30,7 +30,7 @@ More frameworks can be found [here](http://usablica.github.io/front-end-framewor
 [Choosing great variable names](http://thesassway.com/beginner/variable-naming)   
 [CSS Preprocessors and Parent Selectorsa](http://davidwalsh.name/stylus-parent-selectors)   
 [How to Scale and Maintain Legacy CSS with Sass and SMACSS ](http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/)   
-[Stop using so many Sass variables](bensmithett.com/stop-using-so-many-sass-variables/)   
+[Stop using so many Sass variables](http://bensmithett.com/stop-using-so-many-sass-variables/)   
 [Understanding Sass lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/)   
 [Sass control directives: @if, @for, @each and @while](http://thesassway.com/intermediate/if-for-each-while)   
 [Architecture for a Sass Project](http://www.sitepoint.com/architecture-sass-project/)   
