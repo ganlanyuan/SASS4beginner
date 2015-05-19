@@ -14,7 +14,8 @@ Learn to import and use a framwork.
 Creation and use of recallable information.  
 
 ### #4 Extend
-CSS rules reuse and inheritance.   
+CSS rules reuse and inheritance.    
+[Gist](http://sassmeister.com/gist/d93b750bbc9641b5d382)   
 
 ### #5 Mixin
 Writing reusable styles mixed.   
