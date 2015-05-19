@@ -1,6 +1,7 @@
 # SASS4beginners
 SASS courses for beginners.    
-[reference](https://github.com/ganlanyuan/SASS4beginners/blob/master/reference.md)
+[Reference](https://github.com/ganlanyuan/SASS4beginners/blob/master/reference.md)   
+[Screen recording](http://creatiointl.org/gallery/sass-video/)   
 
 ### #1 Basis
 An introduction to Sass, install, imports, comments, and nesting.     

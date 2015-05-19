@@ -1,5 +1,9 @@
 header {
   padding: 30px;
-  color: red; }
+  color: blue; }
+  header ul {
+    padding: 20px; }
+  header li {
+    color: red; }
 
 /*# sourceMappingURL=index.css.map */
