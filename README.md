@@ -12,6 +12,7 @@ Learn to import and use a framwork.
 
 ### #3 Math & Variable
 Creation and use of recallable information.  
+[Gist](http://sassmeister.com/gist/7f5629c1214dea4cee75)
 
 ### #4 Extend
 CSS rules reuse and inheritance.    
