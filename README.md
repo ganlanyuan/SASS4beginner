@@ -5,7 +5,7 @@ SASS courses for beginners.
 
 ### #1 Basis
 An introduction to Sass, install, imports, comments, and nesting.     
-presentation: [slider](http://slides.com/ganlanyuan/deck/#/)
+[Slider](http://slides.com/ganlanyuan/deck/#/)
 
 ### #2 Use a Framework
 Learn to import and use a framwork.   
@@ -16,10 +16,14 @@ Creation and use of recallable information.
 
 ### #4 Extend
 CSS rules reuse and inheritance.    
+[Slider](http://slides.com/ganlanyuan/deck-1#/)   
 [Gist](http://sassmeister.com/gist/d93b750bbc9641b5d382)   
 
-### #5 Mixin
+### #5 Function & Mixin
 Writing reusable styles mixed.   
+[Slider](http://slides.com/ganlanyuan/deck-1-2#/)   
+[Gist-function](http://sassmeister.com/gist/6aa491d689e90ae63bbb)   
+[Gist-mixin](http://sassmeister.com/gist/b936f16cf1af9759411f)   
 
 ### #6 Directive
 @if, @for, @each and @while.  
