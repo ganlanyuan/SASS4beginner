@@ -129,8 +129,9 @@ width: em(10px);        // use function
 Use list and map to write efficient style sheet.  
 1. [Understanding Sass lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/)   
 2. [Advanced Sass list functions](http://hugogiraudel.com/2013/08/08/advanced-sass-list-functions/)    
-3. [Using Sass Maps](http://www.sitepoint.com/using-sass-maps/)    
-4. [Take your Sass skills to the next level with list-maps](https://www.codefellows.org/blog/so-you-want-to-play-with-list-maps) 
+3. [Sassy Z-Index Management For Complex Layouts](http://www.smashingmagazine.com/2014/06/12/sassy-z-index-management-for-complex-layouts/)   
+4. [Using Sass Maps](http://www.sitepoint.com/using-sass-maps/)    
+5. [Take your Sass skills to the next level with list-maps](https://www.codefellows.org/blog/so-you-want-to-play-with-list-maps) 
 
 **list** 
 ````scss

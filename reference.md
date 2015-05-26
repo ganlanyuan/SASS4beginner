@@ -23,6 +23,7 @@ More frameworks can be found [here](http://usablica.github.io/front-end-framewor
 [Sass vs. LESS vs. Stylus](http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-a-preprocessor-shootout--net-24320)   
 [Why Sass?](http://alistapart.com/article/why-sass)   
 [The Absolute Beginner’s Guide to Sass](http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-sass)   
+[Keep Sass Simple](http://www.sitepoint.com/keep-sass-simple/)   
 [SASS debugging](http://code.tutsplus.com/tutorials/developing-with-sass-and-chrome-devtools--net-32805)   
 [Two handy and advanced SASS features and their limitations](http://krasimirtsonev.com/blog/article/Two-handy-and-advanced-SASS-features-and-their-limitations)   
 [How to Scale and Maintain Legacy CSS with Sass and SMACSS ](http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/)   
@@ -36,9 +37,7 @@ More frameworks can be found [here](http://usablica.github.io/front-end-framewor
 [Converting your CSS project to Sass](http://sideproject.io/converting-your-css-project-to-sass/)   
 [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)   
 [Tips to Help You Level Up Your Sass](http://www.sitepoint.com/tips-help-level-up-sass/)   
-[Sassy Z-Index Management For Complex Layouts](http://www.smashingmagazine.com/2014/06/12/sassy-z-index-management-for-complex-layouts/)   
 [Pushing BEM to the next level with Sass 3.4](https://medium.com/@marcmintel/pushing-bem-to-the-next-level-with-sass-3-4-5239d2371321)   
 [8 Tips to Help You Get the Best out of Sass](http://www.sitepoint.com/8-tips-help-get-best-sass/)   
-[Keep Sass Simple](http://www.sitepoint.com/keep-sass-simple/)   
 
 [Chinese sass blog](http://www.w3cplus.com/blog/tags/302.html)   
