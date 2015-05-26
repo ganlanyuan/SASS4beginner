@@ -31,13 +31,16 @@ More frameworks can be found [here](http://usablica.github.io/front-end-framewor
 [CSS Preprocessors and Parent Selectorsa](http://davidwalsh.name/stylus-parent-selectors)   
 [How to Scale and Maintain Legacy CSS with Sass and SMACSS ](http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/)   
 [Stop using so many Sass variables](http://bensmithett.com/stop-using-so-many-sass-variables/)   
-[Understanding Sass lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/)   
 [Sass control directives: @if, @for, @each and @while](http://thesassway.com/intermediate/if-for-each-while)   
+[Using Sass Maps](http://www.sitepoint.com/using-sass-maps/)
 [Architecture for a Sass Project](http://www.sitepoint.com/architecture-sass-project/)   
 [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors)   
 [Sass: Mixin or Placeholder?](http://www.sitepoint.com/sass-mixin-placeholder/)   
 [A Sass Component in 10 Minutes](http://www.sitepoint.com/sass-component-10-minutes/)   
+
+[Understanding Sass lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/)   
 [Advanced Sass list functions](http://hugogiraudel.com/2013/08/08/advanced-sass-list-functions/)   
+
 [OOCSS + Sass = The best way to CSS](http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/)   
 [Create flexible grids using Sass](http://www.creativebloq.com/web-design/create-flexible-grids-using-sass-9134524)   
 [Looking Into the Future of Sass](http://davidwalsh.name/future-sass)   
