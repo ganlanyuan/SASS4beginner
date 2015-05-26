@@ -133,6 +133,8 @@ Use list and map to write efficient style sheet.
 4. [Using Sass Maps](http://www.sitepoint.com/using-sass-maps/)    
 5. [Take your Sass skills to the next level with list-maps](https://www.codefellows.org/blog/so-you-want-to-play-with-list-maps) 
 
+[Gist](http://sassmeister.com/gist/8f7ef31cb1da1c29ac8e)
+
 **list** 
 ````scss
 $list: ();                                            // initalize
