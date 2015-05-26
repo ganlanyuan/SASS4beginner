@@ -5,6 +5,7 @@ SASS courses for beginners.
 
 ### #1 Basis
 An introduction to Sass, install, imports, comments, and nesting.     
+[CSS Preprocessors and Parent Selectorsa](http://davidwalsh.name/stylus-parent-selectors)   
 [Slider](http://slides.com/ganlanyuan/deck/#/)
 
 **nesting**
@@ -27,10 +28,13 @@ Learn to import and use a framwork.
 
 ### #3 Math & Variable
 Creation and use of recallable information.  
+[Choosing great variable names](http://thesassway.com/beginner/variable-naming)   
+[Stop using so many Sass variables](http://bensmithett.com/stop-using-so-many-sass-variables/)   
 [Gist](http://sassmeister.com/gist/7f5629c1214dea4cee75)
 
 ### #4 Extend
 CSS rules reuse and inheritance.    
+[Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors)   
 [Slider](http://slides.com/ganlanyuan/deck-1#/)   
 [Gist](http://sassmeister.com/gist/d93b750bbc9641b5d382) 
 
@@ -38,13 +42,13 @@ CSS rules reuse and inheritance.
 **@extend**  
 ````scss
 .class {
-  Css properties;
+  // Css properties;
 }
 #id {
-  Css properties;
+  // Css properties;
 }
 %selector-placeholder {
-  Css properties;
+  // Css properties;
 }
 .header {
   @extend .class;                 // use extention
@@ -55,6 +59,9 @@ CSS rules reuse and inheritance.
 
 ### #5 Function & Mixin
 Writing reusable styles mixed.   
+[Sass: Mixin or Placeholder?](http://www.sitepoint.com/sass-mixin-placeholder/)   
+[Creating a Repeatable Style Pattern with Sass: Placeholders vs. Mixins](http://jdsteinbach.com/css/sass/creating-repeatable-style-pattern-sass-placeholders-vs-mixins/)   
+[REM to PX Browser Function with Sass](http://davidwalsh.name/rem-px-browser-function-sass)   
 [Slider](http://slides.com/ganlanyuan/deck-1-2#/)   
 [Gist-function](http://sassmeister.com/gist/6aa491d689e90ae63bbb)   
 [Gist-mixin](http://sassmeister.com/gist/b936f16cf1af9759411f)  
@@ -62,7 +69,7 @@ Writing reusable styles mixed.
 **@function** 
 ````scss
 @function em($val) {
-  Do something;
+  // Do something;
 }
 width: em(10px);        // use function
 ````
@@ -70,7 +77,7 @@ width: em(10px);        // use function
 **@mixin**  
 ````scss
 @mixin name($val) {
-  Do something;
+  // Do something;
 }
 .header {
   @include name(10px);  // use mixin
@@ -79,11 +86,12 @@ width: em(10px);        // use function
 
 ### #6 Directive
 @if, @for, @each and @while.    
+[Sass control directives: @if, @for, @each and @while](http://thesassway.com/intermediate/if-for-each-while)   
 
 **@if**    
 ````scss
 @if conditions {
-  statements;
+  // statements;
 } 
 @if conditions {} @else {}              // if ... else ...
 @if conditions {} @else if {} @else {}  // if ... else if ...
@@ -92,52 +100,59 @@ width: em(10px);        // use function
 **@for**
 ````scss
 @for $i from 1 to 10 {        // to: not include 10
-  statements;
+  // statements;
 }
 @for $i from 1 through 10 {   // through: include 10
-  statements;
+  // statements;
 }
 ````
 
 **@each**
 ````scss
 @each $item in $items {
-  statements;
+  // statements;
 }
 ````
 
 **@while**
 ````scss
 @while conditions {
-  statements;
+  // statements;
 }
 ````
 
 ### #7 List & Map
-Use list and map to write efficient style sheet.    
+Use list and map to write efficient style sheet.  
+[Understanding Sass lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/)   
+[Advanced Sass list functions](http://hugogiraudel.com/2013/08/08/advanced-sass-list-functions/)    
+[Using Sass Maps](http://www.sitepoint.com/using-sass-maps/)
+[Take your Sass skills to the next level with list-maps](https://www.codefellows.org/blog/so-you-want-to-play-with-list-maps) 
+
 **list** 
 ````scss
-$list: ();  // initalize
-$list-a: 'value-1' 'value-2' 'value-3' 'value-4'; // separator: ' '
-$list-b: 'value-1', 'value-2', 'value-3', 'value-4'; // separator: ','
+$list: ();                                            // initalize
+$list-a: 'value-1' 'value-2' 'value-3' 'value-4';     // separator: ' '
+$list-b: 'value-1', 'value-2', 'value-3', 'value-4';  // separator: ','
 $list-b: (
   'value-1', 
   'value-2', 
   ('value-3.1', 'value-3.2', 'value-3.3', 'value-3.4'), 
   'value-4'
-  ); // nested list
-nth($list, 1)  // get value (indexes start at 1, not 0)
-length($list)  // get length
+  );            // nested list
+nth($list, 1)   // get value (indexes start at 1, not 0)
+length($list)   // get length
 ````
 **map**
 ````scss
 $map: ( key:value, key-2:value-2, key-3:value-3 );  // initalize
-map-has-key($map, key)  // check if the map has the key
-map-get($map, key)  // get the value
+map-has-key($map, key)                              // check if the map has the key
+map-get($map, key)                                  // get the value
+map-get-z($map, key, key, ...)                      // get the value
 ````
 
 ### #8 Color
 Color functions and management.   
+[Managing relationships between colours with Sass](http://maketea.co.uk/2014/07/21/managing-relationships-between-colours-with-sass.html)   
 
 ### #9 Write your components
 Basis rules to write your components.   
