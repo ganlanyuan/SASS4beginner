@@ -3,6 +3,7 @@ SASS courses for beginners.
 [Reference](https://github.com/ganlanyuan/SASS4beginners/blob/master/reference.md)   
 [Screen recording](http://creatiointl.org/gallery/sass-video/)   
 
+
 ### #1 Basis
 An introduction to Sass, install, imports, comments, and nesting.     
 1. [CSS Preprocessors and Parent Selectorsa](http://davidwalsh.name/stylus-parent-selectors)   
@@ -24,8 +25,10 @@ nav {
 }
 ````
 
+
 ### #2 Use a Framework
 Learn to import and use a framwork.   
+
 
 ### #3 Math & Variable
 Creation and use of recallable information.  
@@ -33,6 +36,7 @@ Creation and use of recallable information.
 2. [Stop using so many Sass variables](http://bensmithett.com/stop-using-so-many-sass-variables/)   
 
 [Gist](http://sassmeister.com/gist/7f5629c1214dea4cee75)
+
 
 ### #4 Extend
 CSS rules reuse and inheritance.    
@@ -59,6 +63,7 @@ CSS rules reuse and inheritance.
   @extend %selector-placeholder;  // use extention
 }
 ````  
+
 
 ### #5 Function & Mixin
 Writing reusable styles mixed.   
@@ -87,6 +92,7 @@ width: em(10px);        // use function
   @include name(10px);  // use mixin
 }
 ````
+
 
 ### #6 Directive
 @if, @for, @each and @while.    
@@ -125,6 +131,7 @@ width: em(10px);        // use function
 }
 ````
 
+
 ### #7 List & Map
 Use list and map to write efficient style sheet.  
 1. [Understanding Sass lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/)   
@@ -160,9 +167,57 @@ map-get-z($map, key, key, ...)                      // get the value
 ### #8 Color
 Color functions and management.   
 1. [Managing relationships between colours with Sass](http://maketea.co.uk/2014/07/21/managing-relationships-between-colours-with-sass.html)   
+2. [Sass color functions](http://sass-lang.com/documentation/Sass/Script/Functions.html)   
+
+[Gist](http://sassmeister.com/gist/b9fce2e5e3bcbf35def7)   
+
+RGB Functions
+````scss
+rgb($red, $green, $blue)
+rgba($red, $green, $blue, $alpha)
+red($color)
+green($color)
+blue($color)
+mix($color1, $color2, [$weight])
+````
+
+HSL Functions
+````scss
+hsl($hue, $saturation, $lightness)
+hsla($hue, $saturation, $lightness, $alpha)
+hue($color)
+saturation($color)
+lightness($color)
+adjust-hue($color, $degrees)
+lighten($color, $amount)
+darken($color, $amount)
+saturate($color, $amount)
+desaturate($color, $amount)
+grayscale($color)
+complement($color)
+invert($color)
+````
+
+Opacity Functions
+````scss
+alpha($color) / opacity($color)
+rgba($color, $alpha)
+opacify($color, $amount) / fade-in($color, $amount)
+transparentize($color, $amount) / fade-out($color, $amount)
+````
+
+Other Color Functions
+````scss
+adjust-color($color, [$red], [$green], [$blue], [$hue], [$saturation], [$lightness], [$alpha])
+scale-color($color, [$red], [$green], [$blue], [$saturation], [$lightness], [$alpha])
+change-color($color, [$red], [$green], [$blue], [$hue], [$saturation], [$lightness], [$alpha])
+ie-hex-str($color)
+````
+
 
 ### #9 Write your components
 Basis rules to write your components.   
+
 
 ### #10 Rocket usage
 Learn to use Rocket.   

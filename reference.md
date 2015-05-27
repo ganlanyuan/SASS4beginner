@@ -1,8 +1,9 @@
+#### Basic
+[Sass](http://sass-lang.com/)      
+[Sass functions](http://sass-lang.com/documentation/Sass/Script/Functions.html)   
+[Sass Guidelines](http://sass-guidelin.es/)   
 
-#### Official site
-[SASS](http://sass-lang.com/)      
-
-#### Tools
+#### Tool
 [sassmeister](http://sassmeister.com/)      
 
 #### Collection of SASS Extensions
