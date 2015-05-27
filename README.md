@@ -71,6 +71,8 @@ Writing reusable styles mixed.
 2. [Creating a Repeatable Style Pattern with Sass: Placeholders vs. Mixins](http://jdsteinbach.com/css/sass/creating-repeatable-style-pattern-sass-placeholders-vs-mixins/)   
 3. [REM to PX Browser Function with Sass](http://davidwalsh.name/rem-px-browser-function-sass)   
 
+[Gist](http://sassmeister.com/gist/6153b58f508fcad1338f)   
+
 **@function** 
 ````scss
 @function em($val) {
